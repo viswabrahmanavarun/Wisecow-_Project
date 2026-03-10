@@ -14,3 +14,9 @@ coverage/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Python virtual environment
+venv/
+
+# Environment variables
+.env
